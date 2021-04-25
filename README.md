@@ -1,6 +1,12 @@
 # Country Vaccinations Visualization with Tableau
 CPE 329 BUSINESS INTELLIGENCE, March 2021
 
+Editors :
+1. Tussanakorn Rattanaburee
+2. Tairat Arromrit
+3. Jantharat Chumsang
+4. Chanakarn Rungnisakarn
+
 DataSet ที่นำมาใช้ : Country_vaccinations.csv 					               
 (เข้าถึงได้จาก : https://www.kaggle.com/gpreda/covid-world-vaccination-progress)
 
