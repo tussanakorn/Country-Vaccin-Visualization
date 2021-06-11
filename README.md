@@ -1,7 +1,7 @@
 # Country Vaccinations Visualization with Tableau
 CPE 329 BUSINESS INTELLIGENCE, March 2021
 
-Editors :
+Team :
 1. Tussanakorn Rattanaburee
 2. Tairat Arromrit
 3. Jantharat Chumsang
