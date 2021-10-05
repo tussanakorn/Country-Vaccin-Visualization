@@ -2,10 +2,10 @@
 CPE 329 BUSINESS INTELLIGENCE, March 2021
 
 Team :
-1. Tussanakorn Rattanaburee
-2. Tairat Arromrit
-3. Jantharat Chumsang
-4. Chanakarn Rungnisakarn
+- [@tussanakorn](https://github.com/tussanakorn)
+- [@Trirat2543](https://github.com/Trirat2543)
+- Jantharat Chumsang
+- Chanakarn Rungnisakarn
 
 DataSet ที่นำมาใช้ : Country_vaccinations.csv 					               
 (เข้าถึงได้จาก : https://www.kaggle.com/gpreda/covid-world-vaccination-progress)
