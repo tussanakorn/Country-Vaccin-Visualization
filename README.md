@@ -4,7 +4,7 @@ CPE 329 BUSINESS INTELLIGENCE, March 2021
 Team :
 - [@tussanakorn](https://github.com/tussanakorn)
 - [@Trirat2543](https://github.com/Trirat2543)
-- Jantharat Chumsang
+- [@JantharatChumsang](https://github.com/JantharatChumsang)
 - Chanakarn Rungnisakarn
 
 DataSet ที่นำมาใช้ : Country_vaccinations.csv 					               
